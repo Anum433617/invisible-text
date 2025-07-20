@@ -1,6 +1,6 @@
 # Invisible-text
 
-<a href="https://textinvisible.com">Invisible text</a> is a utility tool designed to help users detect, analyze, and manipulate invisible characters such as blank spaces, Unicode characters, and other non-printable elements in text. This tool is particularly useful for developers, data analysts, and anyone working with text processing.
+<a href="https://textoinvisble.com">Invisible text</a> is a utility tool designed to help users detect, analyze, and manipulate invisible characters such as blank spaces, Unicode characters, and other non-printable elements in text. This tool is particularly useful for developers, data analysts, and anyone working with text processing.
 
 ## Features
 
